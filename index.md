@@ -3,3 +3,6 @@
 ```
 git clone https://github.com/jeejee0620/jeejee0620.git
 ```
+- [x] Re-check ox_inventory
+- [ ] Optimize Client Side Scripts
+- [ ] Re-run os image for server
